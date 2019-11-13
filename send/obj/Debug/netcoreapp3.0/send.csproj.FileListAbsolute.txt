@@ -1,5 +1,4 @@
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\send\bin\Debug\netcoreapp3.0\send.exe
-C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\send\obj\Debug\netcoreapp3.0\send.csprojAssemblyReference.cache
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\send\obj\Debug\netcoreapp3.0\send.AssemblyInfoInputs.cache
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\send\obj\Debug\netcoreapp3.0\send.AssemblyInfo.cs
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\send\bin\Debug\netcoreapp3.0\send.deps.json

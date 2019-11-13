@@ -1,5 +1,4 @@
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.exe
-C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csprojAssemblyReference.cache
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.AssemblyInfoInputs.cache
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.AssemblyInfo.cs
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.deps.json
