@@ -1,0 +1,13 @@
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.exe
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.deps.json
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.runtimeconfig.json
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.runtimeconfig.dev.json
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.dll
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\receive.pdb
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csproj.CopyComplete
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.dll
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.pdb
