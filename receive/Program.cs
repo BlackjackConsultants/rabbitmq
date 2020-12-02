@@ -7,6 +7,7 @@ namespace receive {
     class Program {
         static void Main(string[] args) {
             var factory = new ConnectionFactory() {
+                ClientProvidedName = "JFPConnection",
                 HostName = "localhost",
                 UserName = "jorgeperez",
                 Password = "q7X9tYmAnaeE3IUHNFF6"
