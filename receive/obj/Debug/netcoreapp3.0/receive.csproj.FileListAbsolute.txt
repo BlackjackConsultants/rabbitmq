@@ -10,3 +10,6 @@ C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\bin\Debug
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csproj.CopyComplete
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.dll
 C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.pdb
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\RabbitMQ\send\receive\obj\Debug\netcoreapp3.0\receive.genruntimeconfig.cache

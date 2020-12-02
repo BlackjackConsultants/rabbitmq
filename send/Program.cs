@@ -8,7 +8,7 @@ namespace send {
             var factory = new ConnectionFactory() {
                 HostName = "localhost",
                 UserName = "jorgeperez",
-                Password = "Sacalaapasear#1"
+                Password = "q7X9tYmAnaeE3IUHNFF6"
             };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel()) {

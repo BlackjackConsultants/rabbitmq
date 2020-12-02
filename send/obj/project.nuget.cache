@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUUgarZmPokeSuQcLzb2Pqhjc+gFcSLvbLAlF3GGBDl7N97JxPaGg8bQp/ez1XqMyTYvIIKZ/wfCkxXA6yvUDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\csharp\\examples\\RabbitMQ\\send\\send\\send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\rabbitmq.client\\6.0.0-pre6\\rabbitmq.client.6.0.0-pre6.nupkg.sha512"
+  ],
+  "logs": []
+}
